@@ -8,7 +8,8 @@ relative_permalinks: true
 title:               BISEL
 tagline:             Why do I need a tagline?
 url:                 http://hwubisel.github.io
-paginate:            1
+description:         'A collection of stuff'
+paginate:            5
 baseurl:             ""
 
 # Assets
@@ -26,5 +27,5 @@ author:
 
 # Custom vars
 version:             2.0.0
-github:
+
 

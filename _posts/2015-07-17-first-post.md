@@ -3,7 +3,7 @@ layout: post
 title: First post
 ---
 
-# Why this blog?
+## Why this blog?
 
 I'm hoping to generate something that provides a valuable resource going forward.
 
