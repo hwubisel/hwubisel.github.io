@@ -9,4 +9,4 @@ This is really intended for **me** to read, not you.  Therefore you may not find
 
 -------
 
-For more information about the theme used in this blog see: (http://lanyon.getpoole.com)[http://lanyon.getpoole.com]
+For more information about the theme used in this blog see: [http://lanyon.getpoole.com](http://lanyon.getpoole.com)
