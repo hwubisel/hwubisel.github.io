@@ -3,7 +3,7 @@ layout: page
 title: Markdown
 ---
 
-Below you can read the markdown help that came with the blog, or you if you click [here](https://help.github.com/articles/markdown-basics/) you can read the GitHub page.
+Below you can read the markdown help that came with the blog, or if you click [here](https://help.github.com/articles/markdown-basics/) you can read the GitHub page.
 
 -------
 
